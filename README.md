@@ -1,128 +1,155 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Shukla</h1>
+<h1 align="center">Hi 👋 I'm Priyanshu Shukla</h1>
+
 <h3 align="center">
-🚀 Java Full Stack Developer | BTech IT Student | Building Real World Projects
+🚀 Java Full Stack Developer | Spring Boot Enthusiast | Future Software Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;Building+Cool+Projects;Exploring+MCP+Connectors;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Building+Real+World+Projects;Spring+Boot+%7C+React+Learner;Exploring+Microservices+and+MCP;Code.+Build.+Learn.+Repeat."/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech IT at KIIT (2027)
-- 💻 Learning Java Full Stack Development
-- 🌱 Exploring Spring Boot, React, Microservices, MCP Connectors
-- 🚀 Building portfolio projects
-- 🧠 Practicing DSA and backend development
-- 🎯 Goal: Become a strong Full Stack Java Developer
+```bash
+> whoami
+Priyanshu Shukla
+
+> education
+B.Tech Information Technology @ KIIT (2027)
+
+> currently_learning
+Java Full Stack
+Spring Boot
+React
+Microservices
+MCP Connectors
+
+> goal
+Become a Strong Full Stack Engineer
+```
 
 ---
 
-## 🛠 Tech Stack
+# ⚙️ Tech Stack
 
-### Languages
+## Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
----
+## Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
----
-
-### Frontend
+## Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
 ---
 
-## 🚀 Featured Projects
+# 🚧 Currently Building
 
-### 📌 Student Management System
-Java Full Stack project for managing student records.
-
-(Add repo link later)
-
----
-
-### 📌 Portfolio612
-Personal portfolio project.
-
-(Add repo link later)
+- Food Delivery MCP Connector  
+- Student Management System  
+- Java Full Stack Portfolio Projects
 
 ---
 
-### 📌 Food Delivery MCP Connector (Upcoming)
-Connector-based Spring Boot integration project.
+# 🚀 Featured Projects
+
+## 📌 Student Management System
+Full Stack Java project for managing student records.
+
+## 📌 Portfolio612
+Personal developer portfolio.
+
+## 📌 Food Delivery MCP Connector
+Connector architecture project using Spring Boot.
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Priyansh666216&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=Priyansh666216&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyansh666216&theme=tokyonight)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyansh666216&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh666216&layout=compact&theme=tokyonight)
-
----
-
-## 📚 Currently Learning
-
-- Java Full Stack Development
-- DSA
-- Spring Boot Microservices
-- MCP Connectors
-- React
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh666216&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
-GitHub:
-https://github.com/Priyansh666216
-
-LinkedIn:
-https://www.linkedin.com/in/priyanshu-shukla-101a5827b
+![](https://github-profile-trophy.vercel.app/?username=Priyansh666216&theme=tokyonight&row=1&column=6)
 
 ---
 
-## 👀 Profile Views
+# 📊 Contribution Graph
 
-![](https://komarev.com/ghpvc/?username=Priyansh666216&color=blueviolet)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Priyansh666216&theme=tokyo-night)
 
 ---
 
-## ⚡ Fun Developer Code
+# 💭 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 💻 Terminal
+
+```bash
+while(alive){
+ eat();
+ code();
+ learn();
+ repeat();
+}
+```
+
+---
+
+# 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Priyansh666216)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-shukla-101a5827b)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Priyansh666216&style=for-the-badge&color=blueviolet)
+
+---
+
+# 🎯 2026 Goals
+
+- Build strong Java Full Stack portfolio  
+- Master Spring Boot + React  
+- Build microservices projects  
+- Crack internships  
+- Contribute to open source
+
+---
+
+# ⚡ Fun Fact
 
 ```java
-while(alive){
-   eat();
-   code();
-   learn();
-   repeat();
+public class Life {
+ public static void main(String[] args){
+   while(true){
+      Code();
+      Learn();
+      Improve();
+   }
+ }
 }
 ```
 
@@ -134,13 +161,4 @@ while(alive){
 
 ---
 
-## 🎯 Goals
-
-- Build strong Java Full Stack portfolio  
-- Deploy real-world projects  
-- Crack internships  
-- Master Spring Boot + React
-
----
-
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile.
