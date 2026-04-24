@@ -1,99 +1,146 @@
-# 👋 Hi, I'm Priyanshu Shukla
+<h1 align="center">Hi 👋, I'm Priyanshu Shukla</h1>
+<h3 align="center">
+🚀 Java Full Stack Developer | BTech IT Student | Building Real World Projects
+</h3>
 
-🚀 **Backend Developer | Full‑Stack & Machine Learning Enthusiast**
-🌱 Building scalable backend systems with occasional ML integration
-📍 India
-
----
-
-## 🧑‍💻 About Me
-
-I’m a passionate developer who focuses primarily on **backend and full-stack development**, with a secondary interest in **Machine Learning**. I enjoy designing robust systems and integrating ML models into web applications when needed.
-
-* 🔭 Currently working on **backend services and APIs**
-* 🧠 Interested in **Java, C/C++, SQL, and scalable system design**
-* ⚡ Learning more about **ML model integration and cloud deployment**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;Building+Cool+Projects;Exploring+MCP+Connectors;Always+Learning+Something+New"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 👨‍💻 Primary Languages
+- 🎓 B.Tech IT at KIIT (2027)
+- 💻 Learning Java Full Stack Development
+- 🌱 Exploring Spring Boot, React, Microservices, MCP Connectors
+- 🚀 Building portfolio projects
+- 🧠 Practicing DSA and backend development
+- 🎯 Goal: Become a strong Full Stack Java Developer
 
-* Java
-* C / C++
-* SQL
-* Bash / Shell Scripting
-* JavaScript (Node.js / Express)
+---
 
-### ⚙️ Frameworks & Libraries
+## 🛠 Tech Stack
 
-* Spring Boot / Hibernate
-* Flask / FastAPI (for ML integration)
-* React / Next.js (for frontend when needed)
-* Bootstrap / Tailwind CSS
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🤖 Secondary (ML & Python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* Python
-* TensorFlow / Keras
-* Image Classification / NLP basics
-* Model Integration with Backend
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### 🧰 Tools & Platforms
+---
 
-* Git & GitHub
-* Render / Railway / Heroku
-* VS Code / IntelliJ / PyCharm
-* Linux / Ubuntu
-* Docker (Basics)
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+---
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌸 Flower Classification Web App
+### 📌 Student Management System
+Java Full Stack project for managing student records.
 
-**Tech:** Python, Flask, TensorFlow, HTML, CSS, JavaScript
+(Add repo link later)
 
-* Trained a CNN model to classify flower species
-* Integrated ML model with Flask backend
-* Built a clean UI for image upload & prediction
+---
 
-### 📊 ML Prediction Dashboard
+### 📌 Portfolio612
+Personal portfolio project.
 
-**Tech:** Flask, REST API, JavaScript
+(Add repo link later)
 
-* Created APIs for ML inference
-* Displayed predictions dynamically on frontend
+---
 
-### 🖥️ Backend Service Project
-
-**Tech:** Java, Spring Boot, SQL
-
-* Designed scalable RESTful APIs
-* Implemented secure authentication and database models
-* Optimized performance for high traffic
+### 📌 Food Delivery MCP Connector (Upcoming)
+Connector-based Spring Boot integration project.
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Priyansh666216&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyansh666216&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh666216&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Learning
 
-* 💼 LinkedIn: [https://linkedin.com/in/your-link](https://linkedin.com/in/your-link)
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- Java Full Stack Development
+- DSA
+- Spring Boot Microservices
+- MCP Connectors
+- React
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
+## 🌐 Connect With Me
 
-<!---
-Priyansh666216/Priyansh666216 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+GitHub:
+https://github.com/Priyansh666216
+
+LinkedIn:
+https://www.linkedin.com/in/priyanshu-shukla-101a5827b
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Priyansh666216&color=blueviolet)
+
+---
+
+## ⚡ Fun Developer Code
+
+```java
+while(alive){
+   eat();
+   code();
+   learn();
+   repeat();
+}
+```
+
+---
+
+## 💡 Motto
+
+> Building. Learning. Improving. Repeating.
+
+---
+
+## 🎯 Goals
+
+- Build strong Java Full Stack portfolio  
+- Deploy real-world projects  
+- Crack internships  
+- Master Spring Boot + React
+
+---
+
+⭐ Thanks for visiting my profile!
