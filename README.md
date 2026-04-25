@@ -4,11 +4,15 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;React+Developer;Building+Scalable+Systems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;React+Developer;Building+Scalable+Systems;Always+Learning+New+Technologies"/>
 
 </p>
 
 ---
+
+<table>
+<tr>
+<td width="55%">
 
 # 🌸 AI Terminal Intro
 
@@ -23,6 +27,16 @@ Domain: Java Full Stack Development
 
 Status: Learning | Building | Improving
 ```
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -128,7 +142,7 @@ Projects include:
 
 ---
 
-# 🌌 3D Contribution Calendar
+# 🌌 Contribution Summary
 
 <p align="center">
 
@@ -173,9 +187,7 @@ class Developer {
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)]()
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail\&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/mridusmita-phukan-83a4832b3)
 
 ---
 
@@ -201,7 +213,7 @@ class Developer {
 
 # 🌟 Motto
 
-> KEEP HUSTLING 🚀
+> Dream Big • Build Smart • Keep Learning 🚀
 
 ---
 
