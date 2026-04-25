@@ -1,69 +1,49 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=220&section=header&text=Priyanshu%20Shukla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<h1 align="center">Hi 👋 I'm Priyanshu Shukla</h1>
 
 <h3 align="center">
 🚀 Java Full Stack Developer | Spring Boot | React | Future Software Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;React+Learner;Microservices+Explorer;Code.+Build.+Learn.+Repeat."/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Priyansh666216&style=for-the-badge&color=blueviolet"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Learner;Building+Real+World+Projects;Microservices+Architecture+Explorer;Code.+Build.+Learn.+Repeat."/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ```bash
-whoami
-Priyanshu Shukla
+Name: Priyanshu Shukla
+Education: B.Tech Information Technology (2027)
+Role: Java Full Stack Developer
+Location: India
 
-education
-B.Tech Information Technology
-KIIT University (2023 - 2027)
-
-interests
-Backend Development
-Microservices Architecture
-System Design
-
-currently_learning
-Java Full Stack
-Spring Boot
-React
-Docker
-Cloud
-
-goal
-Become a strong Full Stack Engineer
+Currently Learning:
+• Spring Boot
+• React
+• Microservices
+• System Design
 ```
 
 ---
 
 # ⚡ Tech Stack
 
-### Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,sql"/>
-</p>
 
-### Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=spring" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
-### Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-</p>
-
-### Tools & Database
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,git,docker,vscode,github"/>
 </p>
 
 ---
@@ -71,21 +51,21 @@ Become a strong Full Stack Engineer
 # 🚧 Currently Building
 
 🚀 Food Delivery MCP Connector  
-⚙️ Student Management System  
-🌐 Personal Developer Portfolio  
+🎓 Student Management System  
+🌐 Java Full Stack Portfolio Projects  
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### Student Management System
-Full Stack Java project using **Spring Boot + MySQL**.
+### 📌 Student Management System
+Full Stack Java project for managing student records.
 
-### Portfolio612
-Modern developer portfolio website.
+### 📌 Portfolio612
+Personal developer portfolio.
 
-### Food Delivery MCP Connector
-Connector architecture project using **Spring Boot microservices**.
+### 📌 Food Delivery MCP Connector
+Connector architecture project using Spring Boot.
 
 ---
 
@@ -100,9 +80,15 @@ Connector architecture project using **Spring Boot microservices**.
 </p>
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh666216&layout=compact&theme=tokyonight"/>
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh666216&layout=compact&theme=tokyonight"/>
+---
 
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Priyansh666216&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -115,18 +101,18 @@ Connector architecture project using **Spring Boot microservices**.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Priyansh666216&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
@@ -139,14 +125,14 @@ Connector architecture project using **Spring Boot microservices**.
 
 ---
 
-# 💻 Developer Terminal
+# 💻 Coding Life
 
-```bash
+```java
 while(alive){
- eat();
- code();
- learn();
- repeat();
+   eat();
+   code();
+   learn();
+   repeat();
 }
 ```
 
@@ -157,54 +143,39 @@ while(alive){
 <p align="center">
 
 <a href="https://github.com/Priyansh666216">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/priyanshu-shukla-101a5827b">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 👀 Profile Views
 
-✔ Master Java Full Stack  
-✔ Build Microservices Projects  
-✔ Contribute to Open Source  
-✔ Crack Software Engineering Internship  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Priyansh666216&style=for-the-badge&color=blueviolet"/>
+</p>
 
 ---
 
-# ⚡ Fun Fact
+# 🎯 2026 Goals
 
-```java
-public class Life{
-
- public static void main(String[] args){
-
-  while(true){
-
-   Code();
-   Learn();
-   Improve();
-
-  }
-
- }
-
-}
-```
+• Build strong Java Full Stack projects  
+• Master Spring Boot + React  
+• Build Microservices architecture projects  
+• Crack top tech internships  
+• Contribute to open source  
 
 ---
 
 # 💡 Motto
 
-Building. Learning. Improving. Repeating.
+> Building. Learning. Improving. Repeating.
 
 ---
 
-⭐ Thanks for visiting my profile.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=120&section=footer"/>
+⭐ Thanks for visiting my profile!
