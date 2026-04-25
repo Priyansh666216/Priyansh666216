@@ -18,10 +18,10 @@ Status: Learning | Building | Improving
 
 # 👩‍💻 About Me
 
-🎓 B.Tech **Information Technology (2027)**
+🎓 **B.Tech Information Technology (2027)**
 💻 Passionate about **Java Full Stack Development**
 ⚡ Currently learning **Spring Boot & React**
-🚀 Interested in **backend architecture & scalable systems**
+🚀 Interested in **scalable backend systems**
 📚 Always exploring new technologies
 
 ---
@@ -68,10 +68,10 @@ GitHub Repository
 
 Projects include:
 
-⭐ Java applications
-⭐ Web development projects
-⭐ Backend API implementations
-⭐ Learning experiments
+⭐ Java Applications
+⭐ Web Development Projects
+⭐ Backend REST APIs
+⭐ Learning Experiments
 
 ---
 
@@ -83,19 +83,15 @@ Projects include:
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Activity Graph
 
 ---
 
-# 🌌 3D Contribution Calendar
+# 🌌 3D Contribution Panel
 
 ---
 
 # 🐍 Contribution Snake
-
----
-
-# 🎮 Pacman Contribution Game
 
 ---
 
@@ -142,6 +138,6 @@ class Developer {
 
 # 🌟 Motto
 
-> Consistency + Curiosity = Growth
+> KEEP HUSTELING 
 
 ---
