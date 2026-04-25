@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋 I'm Priyanshu Shukla</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Priyanshu%20Shukla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20Developer&descAlignY=55"/>
+</p>
 
 <h3 align="center">
 🚀 Java Full Stack Developer | Spring Boot Enthusiast | Future Software Engineer
@@ -8,11 +10,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Learner;Building+Real+World+Projects;Microservices+Architecture+Explorer;Code.+Build.+Learn.+Repeat."/>
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
-</p>
-
 ---
+
+<table>
+<tr>
+<td width="55%">
 
 # 👨‍💻 About Me
 
@@ -35,6 +37,16 @@ System Design
 > goal
 Become a Strong Software Engineer
 ```
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -133,7 +145,7 @@ Become a Strong Software Engineer
 
 ---
 
-# 🧊 3D Contribution Calendar
+# 🧊 3D Contribution Dashboard
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyansh666216&theme=tokyonight"/>
@@ -141,7 +153,7 @@ Become a Strong Software Engineer
 
 ---
 
-# 🎮 Pacman Contribution Game
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -196,11 +208,11 @@ while(alive){
 
 # 🎯 2026 Goals
 
-• Build strong Java Full Stack projects
-• Master Spring Boot + React
-• Build Microservices architecture projects
-• Crack top tech internships
-• Contribute to open source
+• Build strong Java Full Stack projects  
+• Master Spring Boot + React  
+• Build Microservices architecture projects  
+• Crack top tech internships  
+• Contribute to open source  
 
 ---
 
