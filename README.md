@@ -1,115 +1,81 @@
+<!-- ================= PEACH THEME HEADER ================= -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Priyanshu%20Shukla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20Developer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6a3,100:ff8c94&height=220&section=header&text=Mridusmita%20Phukan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Java%20Full%20Stack%20Developer&descAlignY=55"/>
 </p>
 
-<h3 align="center">
-🚀 Java Full Stack Developer | Spring Boot Enthusiast | Future Software Engineer
-</h3>
+<h3 align="center">💻 B.Tech Information Technology (2027)</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Learner;Building+Real+World+Projects;Microservices+Architecture+Explorer;Code.+Build.+Learn.+Repeat."/>
-</p>
-
----
-
-<table>
-<tr>
-<td width="55%">
-
-# 👨‍💻 About Me
-
-```bash
-> whoami
-Priyanshu Shukla
-
-> education
-B.Tech Information Technology (2027)
-
-> role
-Java Full Stack Developer
-
-> currently_learning
-Spring Boot
-React
-Microservices
-System Design
-
-> goal
-Become a Strong Software Engineer
-```
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=spring" height="50"/>
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=FF8C94&center=true&vCenter=true&width=520&lines=Java+Full+Stack+Developer;Spring+Boot+Learner;React+Developer;Future+Software+Engineer"/>
 </p>
 
 ---
 
-# 🚧 Currently Building
+# 🌸 About Me
 
-<p align="center">
+<img align="right" height="230" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-<img src="https://img.shields.io/badge/Project-Food%20Delivery%20MCP%20Connector-blue?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Project-Student%20Management%20System-green?style=for-the-badge&logo=java&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Project-Java%20Full%20Stack%20Portfolio-orange?style=for-the-badge&logo=react&logoColor=white"/>
-
-</p>
-
-<p align="center">
-💡 Building real-world backend systems using <b>Spring Boot, REST APIs, and React</b>
-</p>
+🎓 **B.Tech Information Technology (2027)**
+💻 Passionate about **Java Full Stack Development**
+⚡ Learning **Spring Boot, React & Microservices**
+🚀 Interested in building **scalable web applications**
+📚 Constantly improving coding and development skills
 
 ---
 
-# 🚀 Featured Projects
+# 🛠 Tech Stack
 
-<p align="center">
+### 👩‍💻 Languages
 
-<a href="https://github.com/Priyansh666216">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyansh666216&repo=Student-Management-System&theme=tokyonight"/>
-</a>
+![Java](https://img.shields.io/badge/Java-ff8c94?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff8c94?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff8c94?style=for-the-badge\&logo=javascript\&logoColor=white)
 
-<a href="https://github.com/Priyansh666216">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyansh666216&repo=Portfolio612&theme=tokyonight"/>
-</a>
+### 🌐 Frontend
 
-</p>
+![HTML](https://img.shields.io/badge/HTML5-ff8c94?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-ff8c94?style=for-the-badge\&logo=css3)
+![React](https://img.shields.io/badge/React-ff8c94?style=for-the-badge\&logo=react)
 
-<p align="center">
+### ⚙ Backend
 
-<a href="https://github.com/Priyansh666216">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyansh666216&repo=Food-Delivery-MCP-Connector&theme=tokyonight"/>
-</a>
+![Spring Boot](https://img.shields.io/badge/SpringBoot-ff8c94?style=for-the-badge\&logo=springboot)
+![NodeJS](https://img.shields.io/badge/NodeJS-ff8c94?style=for-the-badge\&logo=node.js)
 
-</p>
+### 🗄 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-ff8c94?style=for-the-badge\&logo=mysql)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-ff8c94?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-ff8c94?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-ff8c94?style=for-the-badge\&logo=visualstudiocode)
+
+---
+
+# 🚀 Current Focus
+
+🌱 Building **Java Full Stack Projects**
+⚡ Learning **REST API development with Spring Boot**
+🎨 Creating **dynamic UI using React**
+☁ Exploring **cloud & scalable architecture**
+
+---
+
+# 📂 Projects
+
+🔗 **GitHub Repository**
+
+https://github.com/phukanmridusmita81-svg
+
+Projects include:
+
+⭐ Java Web Applications
+⭐ Backend REST APIs
+⭐ Frontend UI Projects
+⭐ Practice & learning repositories
 
 ---
 
@@ -117,22 +83,18 @@ Become a Strong Software Engineer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyansh666216&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=phukanmridusmita81-svg&show_icons=true&theme=rose_pine"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyansh666216&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phukanmridusmita81-svg&layout=compact&theme=rose_pine"/>
 
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh666216&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Priyansh666216&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phukanmridusmita81-svg&theme=rose_pine"/>
 </p>
 
 ---
@@ -140,15 +102,7 @@ Become a Strong Software Engineer
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyansh666216&theme=tokyo-night"/>
-</p>
-
----
-
-# 🧊 3D Contribution Dashboard
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyansh666216&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phukanmridusmita81-svg&theme=react-dark"/>
 </p>
 
 ---
@@ -156,27 +110,37 @@ Become a Strong Software Engineer
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 💭 Developer Quote
+# 🎮 Pacman Contribution Game
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman-contribution-graph.svg"/>
 </p>
 
 ---
 
-# 💻 Coding Life
+# 💻 Developer Life
 
 ```java
-while(alive){
-   eat();
-   code();
-   learn();
-   repeat();
+class Developer {
+
+    public static void main(String[] args){
+
+        while(true){
+
+            learn();
+            code();
+            build();
+            improve();
+
+        }
+
+    }
+
 }
 ```
 
@@ -186,40 +150,40 @@ while(alive){
 
 <p align="center">
 
-<a href="https://github.com/Priyansh666216">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://www.linkedin.com/in/mridusmita-phukan-83a4832b3">
 
-<a href="https://www.linkedin.com/in/priyanshu-shukla-101a5827b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-ff8c94?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Priyansh666216&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=phukanmridusmita81-svg&label=Visitors&color=ff8c94&style=for-the-badge"/>
 </p>
 
 ---
 
 # 🎯 2026 Goals
 
-• Build strong Java Full Stack projects  
-• Master Spring Boot + React  
-• Build Microservices architecture projects  
-• Crack top tech internships  
-• Contribute to open source  
+✔ Master Java Full Stack Development
+✔ Build real world projects
+✔ Learn Microservices architecture
+✔ Secure a top tech internship
+✔ Contribute to open source
 
 ---
 
-# 💡 Motto
+# 🌟 Motto
 
-> Building. Learning. Improving. Repeating.
+> Consistency + Curiosity = Growth
 
 ---
 
-⭐ Thanks for visiting my profile.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c94,100:ffb6a3&height=120&section=footer"/>
+</p>
