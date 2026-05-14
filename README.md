@@ -87,32 +87,6 @@ Become a Strong Software Engineer
 💡 Building real-world backend systems using <b>Spring Boot, REST APIs, and React</b>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Priyansh666216">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyansh666216&repo=Student-Management-System&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Priyansh666216">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyansh666216&repo=Portfolio612&theme=tokyonight"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Priyansh666216">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyansh666216&repo=Food-Delivery-MCP-Connector&theme=tokyonight"/>
-</a>
-
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
