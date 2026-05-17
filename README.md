@@ -1,319 +1,340 @@
 <div align="center">
 
-<!-- ══════════════════════════ HEADER ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ HEADER BANNER ░░░░░░░░░░░░░░░░░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,60:1b2838,100:0f3460&height=280&section=header&text=PRIYANSHU%20SHUKLA&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=⟨%20Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20System%20Architect%20⟩&descSize=18&descAlignY=62&descColor=7ecfff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,25:301E67,55:5B8FB9,100:03001C&height=300&section=header&text=PRIYANSHU%20SHUKLA&fontSize=55&fontColor=B6EADA&animation=fadeIn&fontAlignY=38&desc=⟨%20Java%20Full%20Stack%20Developer%20·%20Spring%20Boot%20·%20Future%20System%20Architect%20⟩&descSize=17&descAlignY=60&descColor=5B8FB9"/>
 
-<!-- ══════════════════════════ TYPING SVG ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ TYPING ANIMATION — FIXED URL ░░░░░░░░░░░░░░░░░ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=960&lines=⚡+Java+Full+Stack+Developer;🌱+Spring+Boot+%2B+Microservices+Explorer;⚛️+React+Learner+%7C+REST+API+Craftsman;🧠+System+Design+Student;🏗️+Building+Real-World+Backend+Systems;💻+Code.+Build.+Deploy.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=800&color=B6EADA&center=true&vCenter=true&repeat=true&width=900&height=60&lines=⚡+Java+Full+Stack+Developer;🌿+Spring+Boot+%7C+REST+API+Engineer;⚛️+React+Learner+%7C+Frontend+Explorer;🏗️+Building+Real-World+Backend+Systems;🧠+Microservices+%7C+System+Design+Student;🚀+Code.+Build.+Deploy.+Dominate." alt="Typing Animation"/>
 
----
+<br>
 
-<!-- ══════════════════════════ SOCIAL BADGES ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ BADGE ROW ░░░░░░░░░░░░░░░░░ -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-Priyansh666216-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a0a0f)](https://github.com/Priyansh666216)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Shukla-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0a0a0f)](https://www.linkedin.com/in/priyanshu-shukla-101a5827b)
-![Profile Views](https://komarev.com/ghpvc/?username=Priyansh666216&style=for-the-badge&color=00d4ff&labelColor=0d1117&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/◈_GitHub-Priyansh666216-03001C?style=for-the-badge&logo=github&logoColor=B6EADA&labelColor=301E67)](https://github.com/Priyansh666216)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-Connect-03001C?style=for-the-badge&logo=linkedin&logoColor=B6EADA&labelColor=301E67)](https://www.linkedin.com/in/priyanshu-shukla-101a5827b)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=Priyansh666216&style=for-the-badge&color=5B8FB9&labelColor=03001C&label=◈+PROFILE+VIEWS)
+
+<br>
+
+![](https://img.shields.io/badge/Status-Open%20for%20Internship-B6EADA?style=flat-square&labelColor=301E67&color=5B8FB9)&nbsp;
+![](https://img.shields.io/badge/Focus-Backend%20%2B%20Full%20Stack-B6EADA?style=flat-square&labelColor=301E67&color=5B8FB9)&nbsp;
+![](https://img.shields.io/badge/Mood-Always%20Building-B6EADA?style=flat-square&labelColor=301E67&color=5B8FB9)
 
 </div>
 
+<br>
+
 ---
 
-<!-- ══════════════════════════ ABOUT ME ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ ABOUT ME ░░░░░░░░░░░░░░░░░ -->
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-## `~/priyanshu $ whoami`
+## `~/priyanshu $ cat about.json`
 
-```java
-/**
- * Developer Profile — Priyanshu Shukla
- * ─────────────────────────────────────
- */
-public class Developer {
+```json
+{
+  "name"       : "Priyanshu Shukla",
+  "role"       : "Java Full Stack Developer",
+  "degree"     : "B.Tech — Information Technology (2027)",
+  "location"   : "India 🇮🇳",
+  "status"     : "Actively building & learning",
 
-    String name       = "Priyanshu Shukla";
-    String role       = "Java Full Stack Developer";
-    String degree     = "B.Tech IT @ 2027";
-    String location   = "India 🇮🇳";
+  "stack"      : ["Java", "Spring Boot", "React", "MySQL"],
+  "exploring"  : ["Microservices", "Docker", "System Design"],
 
-    String[] currentlyBuilding = {
-        "Food Delivery MCP Connector",
-        "Student Management System",
-        "Java Full Stack Portfolio"
-    };
+  "goals_2026" : [
+    "Land a top-tier tech internship",
+    "Master Spring Boot + React",
+    "Ship Microservices projects",
+    "Contribute to open source"
+  ],
 
-    String[] learning = {
-        "Spring Boot", "React",
-        "Microservices", "System Design"
-    };
-
-    String mission =
-        "Become a world-class Software Engineer";
-
-    void lifeLoop() {
-        while (alive) {
-            eat(); code(); learn(); repeat();
-        }
-    }
+  "motto" : "Building. Learning. Improving. Repeating."
 }
 ```
 
-</td>
-<td valign="top" width="45%" align="center">
+<br clear="right"/>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░ -->
+
+## `~/priyanshu $ ls tech-stack/`
+
+<div align="center">
 
 <br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 12px;"/>
+**— Languages —**
+
+<img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" height="52"/>
 
 <br><br>
 
-> *"First, solve the problem.*
-> *Then, write the code."*
-> — **John Johnson**
+**— Backend & Frameworks —**
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" height="52"/>
+
+<br><br>
+
+**— Frontend —**
+
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" height="52"/>
+
+<br><br>
+
+**— Database & DevOps —**
+
+<img src="https://skillicons.dev/icons?i=mysql,docker,linux&theme=dark" height="52"/>
+
+<br><br>
+
+**— Tools & Environment —**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="52"/>
 
 <br>
 
-![](https://img.shields.io/badge/Status-Available%20for%20Internship-00ff88?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Focus-Backend%20Engineering-00d4ff?style=flat-square&labelColor=0d1117)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ══════════════════════════ TECH STACK ══════════════════════════ -->
-
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-### 🔷 Languages
-![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-
-### 🔷 Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Core%20Focus-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d1117)
-![REST API](https://img.shields.io/badge/REST%20APIs-Building-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
-![Microservices](https://img.shields.io/badge/Microservices-Exploring-00D4FF?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0d1117)
-
-### 🔷 Frontend
-![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117)
-![HTML5](https://img.shields.io/badge/HTML5-Proficient-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-Proficient-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
-
-### 🔷 Tools & Infrastructure
-![MySQL](https://img.shields.io/badge/MySQL-Comfortable-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-Daily%20Driver-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-Active-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117)
-![VS Code](https://img.shields.io/badge/VS%20Code-Preferred%20IDE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
-
 </div>
 
 ---
 
-<!-- ══════════════════════════ SKILL BARS ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ SKILL DEPTH ░░░░░░░░░░░░░░░░░ -->
 
-## 📡 Skill Depth — Visual Map
+## `~/priyanshu $ ./skill-scanner --verbose`
 
 ```
-Java           ██████████████████░░  90%   ⬤ Core Language
-Spring Boot    ████████████████░░░░  80%   ⬤ Active Focus
-REST APIs      ███████████████░░░░░  75%   ⬤ Building Daily
-MySQL          ██████████████░░░░░░  70%   ⬤ Comfortable
-HTML / CSS     █████████████░░░░░░░  65%   ⬤ Solid Foundation
-JavaScript     ████████████░░░░░░░░  60%   ⬤ Intermediate
-React          ████████░░░░░░░░░░░░  40%   ⬤ Actively Learning
-Docker         ██████░░░░░░░░░░░░░░  30%   ⬤ Exploring
-Microservices  █████░░░░░░░░░░░░░░░  25%   ⬤ Studying Patterns
+╔══════════════════════════════════════════════════════════════╗
+║               ◈  SKILL DEPTH ANALYSIS  ◈                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  Java           ▰▰▰▰▰▰▰▰▰▱  90%   ⟢ Core Weapon            ║
+║  Spring Boot    ▰▰▰▰▰▰▰▰▱▱  80%   ⟢ Primary Focus           ║
+║  REST APIs      ▰▰▰▰▰▰▰▱▱▱  75%   ⟢ Crafting Daily          ║
+║  MySQL          ▰▰▰▰▰▰▰▱▱▱  70%   ⟢ Comfortable             ║
+║  HTML / CSS     ▰▰▰▰▰▰▱▱▱▱  65%   ⟢ Solid Base              ║
+║  JavaScript     ▰▰▰▰▰▰▱▱▱▱  60%   ⟢ Intermediate            ║
+║  React          ▰▰▰▰▱▱▱▱▱▱  40%   ⟢ Actively Learning       ║
+║  Docker         ▰▰▰▱▱▱▱▱▱▱  30%   ⟢ Exploring               ║
+║  Microservices  ▰▰▱▱▱▱▱▱▱▱  20%   ⟢ Deep Diving             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<!-- ══════════════════════════ CURRENT PROJECTS ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ CURRENT PROJECTS ░░░░░░░░░░░░░░░░░ -->
 
-## 🚧 Currently Building
-
-<div align="center">
-
-| 🔨 Project | 🛠️ Stack | 📌 Status |
-|:---|:---|:---:|
-| 🍕 **Food Delivery MCP Connector** | Spring Boot · REST APIs · MCP | ![In Progress](https://img.shields.io/badge/-In%20Progress-00d4ff?style=flat-square&labelColor=0d1117) |
-| 🎓 **Student Management System** | Java · Spring Boot · MySQL | ![Active](https://img.shields.io/badge/-Active-00ff88?style=flat-square&labelColor=0d1117) |
-| 🌐 **Java Full Stack Portfolio** | React · Spring Boot · REST | ![Planning](https://img.shields.io/badge/-Planning-ff9933?style=flat-square&labelColor=0d1117) |
-
-</div>
-
-> 💡 Every project is built from scratch — no templates, no shortcuts. Real-world problems, real solutions.
-
----
-
-<!-- ══════════════════════════ GITHUB STATS ══════════════════════════ -->
-
-## 📊 GitHub Intelligence Report
+## `~/priyanshu $ git status --projects`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Priyansh666216&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=7ecfff&ring_color=00d4ff" />
+<br>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyansh666216&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7ecfff&dates=7ecfff&stroke=0d1117" />
+| &nbsp; | Project | Stack | Status |
+|:---:|:---|:---|:---:|
+| 🍕 | **Food Delivery MCP Connector** | Spring Boot · REST · MCP Protocol | ![](https://img.shields.io/badge/⚙_In_Progress-5B8FB9?style=flat-square&labelColor=301E67) |
+| 🎓 | **Student Management System** | Java · Spring Boot · MySQL · JPA | ![](https://img.shields.io/badge/🔨_Active-B6EADA?style=flat-square&labelColor=301E67) |
+| 🌐 | **Java Full Stack Portfolio** | React · Spring Boot · REST APIs | ![](https://img.shields.io/badge/📐_Planning-5B8FB9?style=flat-square&labelColor=301E67) |
 
-</div>
+<br>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh666216&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=7ecfff&langs_count=8" />
+> 🔥 Every project is engineered from **zero** — no starters, no shortcuts. Just raw code and real problems.
 
 </div>
 
 ---
 
-<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░ -->
 
-## 🏆 Achievement Vault
+## `~/priyanshu $ github --stats --all`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Priyansh666216&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" />
+<br>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Priyansh666216&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=B6EADA&icon_color=5B8FB9&text_color=B6EADA&ring_color=5B8FB9&border_radius=10"/>
+
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyansh666216&theme=tokyonight&hide_border=true&background=03001C&ring=5B8FB9&fire=B6EADA&currStreakLabel=B6EADA&sideLabels=B6EADA&dates=5B8FB9&stroke=301E67&border_radius=10"/>
+
+<br>
+
+<img height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh666216&layout=compact&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=B6EADA&text_color=B6EADA&langs_count=8&border_radius=10"/>
+
+<br>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════ ACTIVITY GRAPH ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░ -->
 
-## 📈 Commit Activity — Live Feed
+## `~/priyanshu $ ./achievement-vault --list`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyansh666216&theme=github-compact&bg_color=0d1117&color=00d4ff&line=0f3460&point=00d4ff&area=true&area_color=0f3460&hide_border=true" />
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priyansh666216&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+
+<br>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════ PROFILE SUMMARY ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░ -->
 
-## 🧊 Profile Deep Scan
+## `~/priyanshu $ git log --oneline --graph`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyansh666216&theme=github_dark" />
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyansh666216&theme=tokyo-night&bg_color=03001C&color=B6EADA&line=5B8FB9&point=B6EADA&area=true&area_color=301E67&hide_border=true"/>
+
+<br>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════ SNAKE ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ PROFILE SUMMARY ░░░░░░░░░░░░░░░░░ -->
 
-## 🐍 Contribution Snake — Eating My Commits
+## `~/priyanshu $ profile-scan --deep`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyansh666216&theme=tokyonight"/>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════ 2026 GOALS ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ SNAKE ░░░░░░░░░░░░░░░░░ -->
 
-## 🎯 2026 Mission Board
+## `~/priyanshu $ snake --eat-commits`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░ MISSION BOARD ░░░░░░░░░░░░░░░░░ -->
+
+## `~/priyanshu $ cat missions-2026.txt`
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                   MISSION CONTROL                   │
-├─────────────────────────────────────────────────────┤
-│  [ ] Build 3+ production-grade Full Stack Projects  │
-│  [ ] Master Spring Boot + React ecosystem           │
-│  [ ] Deploy Microservices on Docker/Cloud           │
-│  [ ] Crack Top Tech Internship Interviews           │
-│  [ ] Contribute to Open Source (5+ PRs)             │
-│  [ ] Learn System Design Fundamentals               │
-│  [ ] Build a Personal Developer Brand Online        │
-└─────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                  ◈  2026 MISSION BOARD  ◈                   ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   ○  Build 3+ production-grade Full Stack projects           ║
+║   ○  Master Spring Boot + React ecosystem deeply             ║
+║   ○  Deploy Microservices using Docker & Cloud               ║
+║   ○  Crack Top Tech Internship — no compromises              ║
+║   ○  Contribute to Open Source (5+ meaningful PRs)           ║
+║   ○  Learn System Design from ground up                      ║
+║   ○  Build a strong developer presence online                ║
+║                                                              ║
+║        Progress: ▰▰▰▰▱▱▱▱▱▱  Loading greatness...           ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<!-- ══════════════════════════ QUOTE ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ MANIFESTO ░░░░░░░░░░░░░░░░░ -->
 
-## 💭 Daily Fuel
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
----
-
-<!-- ══════════════════════════ CODING MANIFESTO ══════════════════════════ -->
-
-## 💻 The Developer Manifesto
+## `~/priyanshu $ cat manifesto.java`
 
 ```java
-package life;
-
-import discipline.*;
-import curiosity.*;
-import java.util.resilience.*;
+package life.priyanshu;
 
 /**
- * @author  Priyanshu Shukla
- * @version 2026.FINAL
- * @since   Day 1
+ *  ┌─────────────────────────────────────────┐
+ *  │       The Developer's Manifesto         │
+ *  │       ──────────────────────────        │
+ *  │  @author  Priyanshu Shukla              │
+ *  │  @version 2026.FINAL                    │
+ *  │  @motto   Build. Break. Fix. Ship.      │
+ *  └─────────────────────────────────────────┘
  */
 public class PriyanshuShukla extends SoftwareEngineer {
 
-    private static final String MOTTO =
-        "Building. Learning. Improving. Repeating.";
+    private static final boolean GIVE_UP = false; // constant
 
     @Override
-    public void live() {
-        while (this.isAlive()) {
-            this.eat();
-            this.code(withPassion = true);
-            this.learnSomethingNew();
-            this.pushToGitHub();
-            this.repeat();
+    public void liveTheDeveloperLife() {
+        while (this.isAlive() && !GIVE_UP) {
+            eat(ramen());
+            code(withPassion = true, withChai = true);
+            learnSomethingNew("every single day");
+            pushToGitHub();
+            readFeedback();
+            iterate();
         }
+    }
+
+    @Override
+    public String philosophy() {
+        return "Write code you'd be proud to show 5 years from now.";
     }
 
     @Override
     public String toString() {
-        return "A developer who builds things that matter.";
+        return "A developer who builds things that actually matter.";
     }
 }
 ```
 
 ---
 
-<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ QUOTE ░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-### ⚡ Connect. Collaborate. Create.
+## `~/priyanshu $ fortune --dev`
 
-[![GitHub](https://img.shields.io/badge/GitHub-@Priyansh666216-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/Priyansh666216)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Now-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/priyanshu-shukla-101a5827b)
-
----
-
-```
-> Priyanshu Shukla — Java Full Stack Developer
-> Open to internships, collaborations & real-world challenges
-> Currently compiling... ████████████░░ 83% done → Loading greatness
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1b2838,100:0a0a0f&height=120&section=footer"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 
-<!-- Built with ❤️ and endless cups of chai ☕ -->
+---
+
+<!-- ░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<br>
+
+**`⟨ Connect · Collaborate · Create ⟩`**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/◈_GitHub-@Priyansh666216-03001C?style=for-the-badge&logo=github&logoColor=B6EADA&labelColor=301E67)](https://github.com/Priyansh666216)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-Let's%20Connect-03001C?style=for-the-badge&logo=linkedin&logoColor=B6EADA&labelColor=301E67)](https://www.linkedin.com/in/priyanshu-shukla-101a5827b)
+
+<br>
+
+```
+  ┌───────────────────────────────────────────────────────────┐
+  │    Priyanshu Shukla  ·  Java Full Stack Developer         │
+  │    Open to internships · Collabs · Real Challenges         │
+  │                                                           │
+  │    Compiling greatness... ▰▰▰▰▰▰▰▰▱▱  83% — stay tuned   │
+  └───────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:301E67,75:5B8FB9,100:03001C&height=130&section=footer&fontColor=B6EADA"/>
+
+</div>
+
+<!-- Crafted with ❤️ + endless cups of chai ☕ — Priyanshu Shukla -->
