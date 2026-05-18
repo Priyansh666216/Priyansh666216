@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,25:301E67,55:5B8FB9,100:03001C&height=300&section=header&text=PRIYANSHU%20SHUKLA&fontSize=55&fontColor=B6EADA&animation=fadeIn&fontAlignY=38&desc=⟨%20Java%20Full%20Stack%20Developer%20·%20Spring%20Boot%20·%20Future%20System%20Architect%20⟩&descSize=17&descAlignY=60&descColor=5B8FB9"/>
 
-<!-- ░░░░░░░░░░░░░░░░░ TYPING ANIMATION — FIXED URL ░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░░░░░ -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=800&color=B6EADA&center=true&vCenter=true&repeat=true&width=900&height=60&lines=⚡+Java+Full+Stack+Developer;🌿+Spring+Boot+%7C+REST+API+Engineer;⚛️+React+Learner+%7C+Frontend+Explorer;🏗️+Building+Real-World+Backend+Systems;🧠+Microservices+%7C+System+Design+Student;🚀+Code.+Build.+Deploy.+Dominate." alt="Typing Animation"/>
 
@@ -32,7 +32,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-## `~/priyanshu $ cat about.json`
+## `$ whoami`
 
 ```json
 {
@@ -62,7 +62,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░ -->
 
-## `~/priyanshu $ ls tech-stack/`
+## `$ ls tech-stack/`
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 
 <br><br>
 
-**— Tools & Environment —**
+**— Tools —**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="52"/>
 
@@ -104,7 +104,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░ SKILL DEPTH ░░░░░░░░░░░░░░░░░ -->
 
-## `~/priyanshu $ ./skill-scanner --verbose`
+## `$ skill-scanner`
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -128,7 +128,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░ CURRENT PROJECTS ░░░░░░░░░░░░░░░░░ -->
 
-## `~/priyanshu $ git status --projects`
+## `$ git status`
 
 <div align="center">
 
@@ -142,7 +142,7 @@
 
 <br>
 
-> 🔥 Every project is engineered from **zero** — no starters, no shortcuts. Just raw code and real problems.
+> 🔥 Every project engineered from **zero** — no starters, no shortcuts. Just raw code and real problems.
 
 </div>
 
@@ -150,7 +150,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░ -->
 
-## `~/priyanshu $ github --stats --all`
+## `$ github stats`
 
 <div align="center">
 
@@ -158,7 +158,7 @@
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=Priyansh666216&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=B6EADA&icon_color=5B8FB9&text_color=B6EADA&ring_color=5B8FB9&border_radius=10"/>
 
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyansh666216&theme=tokyonight&hide_border=true&background=03001C&ring=5B8FB9&fire=B6EADA&currStreakLabel=B6EADA&sideLabels=B6EADA&dates=5B8FB9&stroke=301E67&border_radius=10"/>
+<img height="175" src="https://streak-stats.demolab.com/?user=Priyansh666216&theme=tokyonight&hide_border=true&background=03001C&ring=5B8FB9&fire=B6EADA&currStreakLabel=B6EADA&sideLabels=B6EADA&dates=5B8FB9&stroke=301E67&border_radius=10"/>
 
 <br>
 
@@ -172,7 +172,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░ -->
 
-## `~/priyanshu $ ./achievement-vault --list`
+## `$ achievements`
 
 <div align="center">
 
@@ -188,7 +188,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░ -->
 
-## `~/priyanshu $ git log --oneline --graph`
+## `$ git log --graph`
 
 <div align="center">
 
@@ -204,7 +204,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░ PROFILE SUMMARY ░░░░░░░░░░░░░░░░░ -->
 
-## `~/priyanshu $ profile-scan --deep`
+## `$ profile-scan`
 
 <div align="center">
 
@@ -216,7 +216,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░ SNAKE ░░░░░░░░░░░░░░░░░ -->
 
-## `~/priyanshu $ snake --eat-commits`
+## `$ snake`
 
 <div align="center">
 
@@ -228,7 +228,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░ MISSION BOARD ░░░░░░░░░░░░░░░░░ -->
 
-## `~/priyanshu $ cat missions-2026.txt`
+## `$ cat missions-2026.txt`
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -251,7 +251,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░ MANIFESTO ░░░░░░░░░░░░░░░░░ -->
 
-## `~/priyanshu $ cat manifesto.java`
+## `$ cat manifesto.java`
 
 ```java
 package life.priyanshu;
@@ -259,7 +259,6 @@ package life.priyanshu;
 /**
  *  ┌─────────────────────────────────────────┐
  *  │       The Developer's Manifesto         │
- *  │       ──────────────────────────        │
  *  │  @author  Priyanshu Shukla              │
  *  │  @version 2026.FINAL                    │
  *  │  @motto   Build. Break. Fix. Ship.      │
@@ -267,7 +266,7 @@ package life.priyanshu;
  */
 public class PriyanshuShukla extends SoftwareEngineer {
 
-    private static final boolean GIVE_UP = false; // constant
+    private static final boolean GIVE_UP = false;
 
     @Override
     public void liveTheDeveloperLife() {
@@ -276,14 +275,8 @@ public class PriyanshuShukla extends SoftwareEngineer {
             code(withPassion = true, withChai = true);
             learnSomethingNew("every single day");
             pushToGitHub();
-            readFeedback();
             iterate();
         }
-    }
-
-    @Override
-    public String philosophy() {
-        return "Write code you'd be proud to show 5 years from now.";
     }
 
     @Override
@@ -295,23 +288,13 @@ public class PriyanshuShukla extends SoftwareEngineer {
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░ QUOTE ░░░░░░░░░░░░░░░░░ -->
-
 <div align="center">
 
-## `~/priyanshu $ fortune --dev`
+## `$ fortune --dev`
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
-</div>
-
 ---
-
-<!-- ░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-<br>
 
 **`⟨ Connect · Collaborate · Create ⟩`**
 
@@ -326,7 +309,6 @@ public class PriyanshuShukla extends SoftwareEngineer {
   ┌───────────────────────────────────────────────────────────┐
   │    Priyanshu Shukla  ·  Java Full Stack Developer         │
   │    Open to internships · Collabs · Real Challenges         │
-  │                                                           │
   │    Compiling greatness... ▰▰▰▰▰▰▰▰▱▱  83% — stay tuned   │
   └───────────────────────────────────────────────────────────┘
 ```
