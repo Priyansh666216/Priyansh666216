@@ -156,13 +156,22 @@
 
 <br>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Priyansh666216&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=B6EADA&icon_color=5B8FB9&text_color=B6EADA&ring_color=5B8FB9&border_radius=10"/>
+<!-- ✅ STABLE: github-profile-summary-cards (replaces broken github-readme-stats) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyansh666216&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyansh666216&theme=tokyonight&utcOffset=5.5"/>
 
-<img height="175" src="https://streak-stats.demolab.com/?user=Priyansh666216&theme=tokyonight&hide_border=true&background=03001C&ring=5B8FB9&fire=B6EADA&currStreakLabel=B6EADA&sideLabels=B6EADA&dates=5B8FB9&stroke=301E67&border_radius=10"/>
+<br><br>
 
-<br>
+<!-- ✅ STABLE: streak-stats.demolab.com -->
+<img src="https://streak-stats.demolab.com/?user=Priyansh666216&theme=tokyonight&hide_border=true&background=03001C&ring=5B8FB9&fire=B6EADA&currStreakLabel=B6EADA&sideLabels=B6EADA&dates=5B8FB9&stroke=301E67&border_radius=10"/>
 
-<img height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh666216&layout=compact&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=B6EADA&text_color=B6EADA&langs_count=8&border_radius=10"/>
+<br><br>
+
+<!-- ✅ STABLE: repos-per-language and most-commit-language cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyansh666216&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyansh666216&theme=tokyonight"/>
 
 <br>
 
